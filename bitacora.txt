@@ -1,3 +1,4 @@
 Primer repositorio del curso.
 Trabajo usand Git por SSH.
 hola soy rosell un guia explorador
+Después de git pull, el repositorio local quedó sincronizado con el remoto.
